@@ -58,7 +58,6 @@ body{
 
 .social-media h3:hover{
   background-color: white;
-  border: dotted gray 5px;
   transform: scale(1.1000);
   
 }
