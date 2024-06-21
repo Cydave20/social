@@ -64,4 +64,5 @@ body{
 }
 
 .social-media h3:active{
+  color: red;
 }
