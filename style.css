@@ -58,9 +58,7 @@ body{
 
 .social-media h3:hover{
   background-color: black;
-  transform: scale(1.1000);
   
 }
 
-.social-media h3:active{
-}
+
