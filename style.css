@@ -1,6 +1,6 @@
 body{
   margin: 0px 10px;
-  background-image: url(black-white-background.jpg);
+  background-image: url(ppp.png);
   background-repeat: no-repeat;
   background-position: center;
   background-attachment: fixed;
@@ -28,8 +28,9 @@ body{
 
 
 .prp img{
-  max-width: 110px;
+  max-width: 10px;
   border-radius: 160px;
+
 }
 
 .name{
@@ -43,14 +44,18 @@ body{
    text-decoration: none;
  }
 
+.name{
+  color: #a33939;
+  font-family: serif;
+}
 
 .social-media  h3{
-  background-color: gray;
+  background-color: white;
   border-radius: 80px;
   padding: 20px;
   text-align: center;
-  border: solid black 5px;
-  color: black;
+  border: solid #c78340 5px;
+  color: #e0a569;
   font-size: 20px;
   font-family: Arial, Helvetica, sans-serif;
   transition: 0.20s;
@@ -58,7 +63,5 @@ body{
 
 .social-media h3:hover{
   background-color: white;
-  
-}
-
-
+  border: solid cornsilk 5px;
+  transform: scale(1.1000);
